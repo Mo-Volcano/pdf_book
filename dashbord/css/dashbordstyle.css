@@ -1,0 +1,17 @@
+.content1 {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+ul li a:hover {
+    background-color: var(--bs-success) !important;
+    color: #e0dcdc !important;
+}
+
+/* start category page */
+
+
+/*  end category  page*/

@@ -1,0 +1,136 @@
+a{
+    text-decoration: none;
+}
+
+
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+}
+
+.banar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url("./images/06f8a21d2da0136784b170461fa89f3b.jpg");
+    background-position: center;
+
+    background-size: cover;
+    color: #fff;
+    position: relative;
+    height: 50vh;
+    text-align: center;
+}
+
+.banar .lib-info {
+    padding-top: 140px;
+    margin: auto;
+}
+
+.banar .lib-info h4 {
+    font-size: 65px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.banar .lib-info p {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    line-height: 30px;
+}
+
+/* start books */
+.books a {
+    text-decoration: none !important;
+
+}
+
+
+.books .img-cover {
+    overflow: hidden;
+    height: 250px;
+}
+
+/* start books */
+.custom-btn a {
+    padding: 10px 60px !important;
+}
+
+.books .row .ddd {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-around !important;
+}
+
+/* end books */
+/* start footer */
+footer {
+    background-color: #fff;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}
+
+/* end footer */
+
+/* book1 file */
+/* image cusmaze */
+.book-cover img {
+   width: 100%;
+}
+.book-cover{
+    overflow: hidden;
+}
+
+
+.book-content h4 a {
+    color: var(--bs-success);
+}
+
+.book-content h4 a:hover {
+    color: rgb(6, 171, 6);
+}
+
+.book-content p {
+    line-height: 30px;
+}
+
+/* start categort */
+.related-book {
+    margin: 20px 0;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.cover {
+    overflow: hidden;
+}
+
+.cover img {
+    width: 100%;
+}
+.title{
+    margin: 10px 0;
+
+}
+.title a{
+   color: #555;
+    
+}
+.title a:hover{
+    color:#777;
+    
+}
+.related-books  .ddd {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-around !important;
+}
+
+/* end categort */
+
+
+
+
+
+
+
+/* book1 file */
